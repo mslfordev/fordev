@@ -1,0 +1,10 @@
+[github]
+url = "https://github.com/MSL-Official/inhouse_test"
+
+[server]
+cache = false
+headless = true
+port = $PORT
+
+[browser]
+gatherUsageStats = false
